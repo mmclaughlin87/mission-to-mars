@@ -128,6 +128,3 @@ def scrape ():
     browser.quit()
 
     return mars_data
-
-# results = scrape()
-# print(results)
