@@ -1,4 +1,4 @@
-# mission-to-mars
+# Mars Data Scraping
 A webscraping application which retrieves and presents summary information, the latest news, and images of Mars.
 
 ## Data Sources
